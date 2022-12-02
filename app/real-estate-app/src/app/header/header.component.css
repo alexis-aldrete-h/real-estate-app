@@ -1,26 +1,26 @@
-.header-container{
-    height: 8%;
+.header-container {
+  height: 8%;
 }
 
-mat-toolbar{
-    background-color: transparent;
-    height: 100%;
+mat-toolbar {
+  background-color: transparent;
+  height: 100%;
 }
 
 .example-spacer {
-    flex: 1 1 auto;
+  flex: 1 1 auto;
 }
 
-h1{
-    color: white;
-    font-size: 2rem;
-    font-weight: 400;
+h1 {
+  color: white;
+  font-size: 2rem;
+  font-weight: 400;
 }
 
 a {
-    margin: 0 50px;
-    color: white;
-    text-decoration: none;
-    font-weight: 200;
-    font-size: medium;
+  margin: 0 50px;
+  color: white;
+  text-decoration: none;
+  font-weight: 200;
+  font-size: medium;
 }
